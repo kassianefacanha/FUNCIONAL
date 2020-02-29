@@ -1,5 +1,4 @@
 interior :: [a] -> [a]
-
 interior [] = []
 interior (x:xs) = (take ((length xs) - 1) xs)
 main = do
