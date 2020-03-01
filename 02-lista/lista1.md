@@ -118,8 +118,11 @@ contaOcorrencias (x:xs) n | (x == n) = 1 + contaOcorrencias xs n
 
 #### 10. unico
 INPUT: Lista u e valor x
+
+
 OUTPUT: Verdadeiro se x ocorre exatamente uma
 vez em u e falso do contrário
+
 EX(S):
 unico 2 [1,2,3,2] ==> False
 unico 2 [3,1] ==> False
@@ -127,8 +130,10 @@ unico 2 [2] ==> True
 
 #### 11. maioresQue
 INPUT: Número x e uma lista u de números
+
 OUTPUT: Sublista de u cujos números sejam
 maiores que x
+
 EX(S):
 maioresQue 10 [4 6 30 3 15 3 10 7] ==>
 [30, 15]
