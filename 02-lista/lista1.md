@@ -104,8 +104,10 @@ maior (x:xs) | (x > maior xs) = x
 ```
 #### 9. frequencia
 INPUT: Lista u e valor x
+
 OUTPUT: Retorna o total de ocorrências de x em
 u.
+
 EX(S):
 frequencia 5 [4,5,2,1,5,5,9] ==> 3
 
