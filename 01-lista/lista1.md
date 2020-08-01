@@ -108,14 +108,11 @@ INPUT: Lista u e valor x
 OUTPUT: Retorna o total de ocorrências de x em
 u.
 
-EX(S):
-frequencia 5 [4,5,2,1,5,5,9] ==> 3
-
 ```hs
-contaOcorrencias :: [Int] -> Int -> Int
-contaOcorrencias [] _= 0
-contaOcorrencias (x:xs) n | (x == n) = 1 + contaOcorrencias xs n
-                          | otherwise = contaOcorrencias xs n
+frequencia :: [Int] -> Int -> Int
+frequencia [] _= 0
+frequencia (x:xs) n | (x == n) = 1 + frequencia xs n
+                          | otherwise = frequencia xs n
 ```
 
 #### 10. unico
@@ -202,7 +199,12 @@ OUTPUT: Lista com as chaves de u sem repetições
 EX(S):
 [1,2,5,2,5,7,2,5] ==> [1,2,5,7]
 
-
+```hs
+unique [] = []
+unique (x:xs) 
+    | x `elem` xs = unique xs
+    | otherwise = x:unique xs
+```
 
 #### 16. menores
 INPUT: Natural n e lista u
@@ -475,14 +477,14 @@ e falso do contrário (Um quadrado perfeito é um
 número inteiro cuja raiz quadrada é também um
 número inteiro). Não utilizar operadores ou funções que retornem números reais.
 
-#### 39. base
+#### 39. ListaRicardo
 INPUT: Dois inteiros positivos, n e b (1 < b < 37)
 
-OUTPUT: Representação na base b do inteiro n
+OUTPUT: Representação na ListaRicardo b do inteiro n
 
 EX(S):
-base 17 2 ==> "10001"
-base 26 16 ==> "1A"
+ListaRicardo 17 2 ==> "10001"
+ListaRicardo 26 16 ==> "1A"
 
 #### 40. partes
 INPUT: Lista u
