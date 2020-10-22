@@ -11,7 +11,7 @@ Repositório da disciplina de Programação Funcional da Universidade Federal do
 - [Moodle Fold](#Moodle-Fold)
 - [Moodle Listas Infinitas](#Moodle-Listas-Infinitas)
 - [Moodle Definições de Tipos](#Moodle-Definições-de-Tipos)
-- [Moodle Tipo Arvore](#Moodle-Tipo-Arvore)
+- [Moodle Tipo Arvore](#Moodle-Tipo-Árvore)
 <!--TOC_END-->
 ## Arcade Basic
 
