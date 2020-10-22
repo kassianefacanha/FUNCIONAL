@@ -49,7 +49,7 @@ Repositório da disciplina de Programação Funcional da Universidade Federal do
 - [17. alter](ListaRicardo/17-alter.md)
 - [18. reverso](ListaRicardo/18-reverso.md)
 - [19. divide](ListaRicardo/19-divide.md)
-- [20. intercal](ListaRicardo/20-intercal.md) 
+- [20. intercal](ListaRicardo/20-intercala.md) 
 - [21. uniao](ListaRicardo/21-uniao.md)
 - [22. intersec](ListaRicardo/22-intersec.md)
 - [23. sequencia](ListaRicardo/23-sequencia.md) 
