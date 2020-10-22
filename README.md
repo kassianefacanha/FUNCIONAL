@@ -93,7 +93,7 @@ Repositório da disciplina de Programação Funcional da Universidade Federal do
 - [08. acertosFold](MoodleWladEDavid/03paridadeFold.md)
 - [09. descompactaFold](MoodleWladEDavid/04duplicarFold.md)
 
-## Listas Infinitas
+## Moodle Listas Infinitas
 
 - [10. kolaksoki](MoodleWladEDavid/10kolaksoki.md) 
 - [11. hamming](MoodleWladEDavid/11hamming.md)
