@@ -1,82 +1,126 @@
 # FUNCIONAL
 Repositório da disciplina de Programação Funcional da Universidade Federal do Ceará 2020.1 com o Professor David Sena.
 
-
+#### Nome : Kassiane Lopes Façanha - Ciência da Computação
 <!--TOC_BEGIN-->
 - [Arcade Basic](#arcade-basic)
 - [Lista 01(20 questões)](#arcade-basic)
-- [Lista 1](#lista-1)
 - [Lista - Ricardo](#lista---ricardo)
 - [Lista 2](#lista-2)
-
+- [Trabalhos](#Trabalhos)      
+- [Moodle Fold](#Moodle-Fold)
+- [Moodle Listas Infinitas](#Moodle-Listas-Infinitas)
+- [Moodle Definições de Tipos](#Moodle-Definições-de-Tipos)
+- [Moodle Tipo Arvore](#Moodle-Tipo-Arvore)
+- [Moodle Classes de Tipos](#Moodle)
 <!--TOC_END-->
+## Arcade Basic
 
-## Lista 1
+- [01. soma](01_arcade_basic/01soma/main.hs)
+- [02. interior](01_arcade_basic/02interior/main.hs)
+- [03. iguais](01_arcade_basic/03iguais/main.hs)
+- [04. maior](01_arcade_basic/04maior/main.hs)
+- [05. somaimpar](01_arcade_basic/05somaimpa/main.hs)
+- [06. contar](01_arcade_basic/06contar/main.hs)
+- [07. pedaco](01_arcade_basic/07pedaco/main.hs)
+- [08. gangorra](01_arcade_basic/08gangorra/main.hs)
 
-- [01. countNeg](Lista1/countneg) 
-- [01. final](Lista1/final) 
-- [01. iguais](Lista1/iguais) 
-- [01. interior](Lista1/interior) 
-- [01. gangorra](Lista1/gangorra) 
-- [01. min2](Lista1/min2) 
-- [01. min3](Lista1/min3) 
-- [01. soma2](Lista1/soma2) 
-- [01. somaImpares](Lista1/somaimpares) 
+## Lista 1 (20 Questões)
+
+- [01. Lista 1](Lista1/lista1.md) 
+
 
 ## Lista - Ricardo
 
-- [01. sublist](ListaRicardo/sublist.md) 
-- [02. max3](ListaRicardo/)
-- [03. fatorial](ListaRicardo/fatorial.md)
-- [04. fibonacci](ListaRicardo/fibonacci.md)
-- [05. elemento](ListaRicardo/elemento.md)
-- [06. pertence](ListaRicardo/pertence.md)
-- [07. total](ListaRicardo/total.md)
-- [08. maior](ListaRicardo/maior.md)
-- [09. frequencia](ListaRicardo/frequencia.md)
-- [10. unico](ListaRicardo/unico.md)
-- [11. maioresQue](ListaRicardo/maioresQue.md)
-- [12. concatena](ListaRicardo/concatena.md)
-- [13. calda](ListaRicardo/calda.md)
-- [14. corpo](ListaRicardo/corpo.md)
-- [15. unique](ListaRicardo/unique.md)
-- [16. menores](ListaRicardo/menores.md) 
-- [17. alter](ListaRicardo/alter.md)
-- [18. reverso](ListaRicardo/reverso.md)
-- [19. divide](ListaRicardo/divide.md)
-- [20. intercal](ListaRicardo/intercal.md) 
-- [21. uniao](ListaRicardo/uniao.md)
-- [22. intersec](ListaRicardo/intersec.md)
-- [23. sequencia](ListaRicardo/sequencia.md) 
-- [24. inserir](ListaRicardo/inserir.md) 
-- [25. ordenada](ListaRicardo/ordenada.md) 
-- [26. qsort](ListaRicardo/qsort.md) 
-- [27. rotEsq](ListaRicardo/rotEsq.md) 
-- [28. rotDir](ListaRicardo/rotDir.md) 
-- [29. upper](ListaRicardo/upper.md) 
-- [30. merge](ListaRicardo/) 
-- [30. titulo](ListaRicardo/) 
-- [31. select](ListaRicardo/select.md) 
-- [32. isPalind](ListaRicardo/isPalind.md) 
-- [33. ehPrimo](ListaRicardo/ehPrimo.md) 
-- [34. sdig](ListaRicardo/sdig.md) 
-- [35. bubble](ListaRicardo/bubble.md) 
-- [36. compac](ListaRicardo/) 
-- [37. splitints](ListaRicardo/splitins.md) 
-- [38. quadperf](ListaRicardo/quadperf.md) 
-- [39. base](ListaRicardo/) 
-- [40. partes](ListaRicardo/) 
-- [41. vetFib](ListaRicardo/) 
+- [01. sublist](ListaRicardo/01-sublist.md) 
+- [03. fatorial](ListaRicardo/03-fatorial.md)
+- [04. fibonacci](ListaRicardo/04-fibonacci.md)
+- [05. elemento](ListaRicardo/05-elemento.md)
+- [06. pertence](ListaRicardo/06-pertence.md)
+- [07. total](ListaRicardo/07-total.md)
+- [08. maior](ListaRicardo/08-maior.md)
+- [09. frequencia](ListaRicardo/09-frequencia.md)
+- [10. unico](ListaRicardo/10-unico.md)
+- [11. maioresQue](ListaRicardo/11-maioresQue.md)
+- [12. concatena](ListaRicardo/12-concatena.md)
+- [13. calda](ListaRicardo/13-calda.md)
+- [14. corpo](ListaRicardo/14-corpo.md)
+- [15. unique](ListaRicardo/15-unique.md)
+- [16. menores](ListaRicardo/16-menores.md) 
+- [17. alter](ListaRicardo/17-alter.md)
+- [18. reverso](ListaRicardo/18-reverso.md)
+- [19. divide](ListaRicardo/19-divide.md)
+- [20. intercal](ListaRicardo/20-intercal.md) 
+- [21. uniao](ListaRicardo/21-uniao.md)
+- [22. intersec](ListaRicardo/22-intersec.md)
+- [23. sequencia](ListaRicardo/23-sequencia.md) 
+- [24. inserir](ListaRicardo/24-inserir.md) 
+- [25. ordenada](ListaRicardo/25-ordenada.md) 
+- [26. qsort](ListaRicardo/26-qsort.md) 
+- [27. rotEsq](ListaRicardo/27-rotEsq.md) 
+- [28. rotDir](ListaRicardo/28-rotDir.md) 
+- [29. upper](ListaRicardo/29-upper.md) 
+- [31. select](ListaRicardo/31-select.md) 
+- [32. isPalind](ListaRicardo/32-isPalind.md) 
+- [33. ehPrimo](ListaRicardo/33-ehPrimo.md) 
+- [34. sdig](ListaRicardo/34-sdig.md) 
+- [35. bubble](ListaRicardo/35-bubble.md) 
+- [37. splitints](ListaRicardo/36-splitins.md) 
+- [38. quadperf](ListaRicardo/37-quadperf.md) 
 
 ## Lista 2
 
-- [@051 01. paridade](Lista2/) 
-- [@052 02. rev](Lista2/rev.md) 
-- [@053 03. delete](Lista2/delete.md) 
-- [@054 04. swap](Lista2/swap) 
-- [@055 05. nextPerm](Lista2/nextperm) 
-- [@056 06. allPerms](Lista2/allperms) 
-- [@057 07. buscabin](Lista2/buscabin) 
-- [@058 08. factors](Lista2/factors) 
-- [@059 09. listacc](Lista2/listacc) 
-- [@060 10. maxsseq](Lista2/maxsseq) 
+- [02. rev](Lista2/rev.md) 
+- [03. delete](Lista2/delete.md) 
+
+## Trabalhos
+
+- [01. compac](Trabalhos/compac.hs) 
+- [02. merge](Trabalhos/merge.hs)
+- [03. qsort](Trabalhos/qsort.hs)
+- [04. quadpeft](Trabalhos/quadpeft.hs)
+- [05. unique](Trabalhos/unique.hs)
+
+
+## Moodle Fold
+
+- [01. concatenaFold](MoodleWladEDavid/01concatenaFold.md) 
+- [02. invertFold](MoodleWladEDavid/02invertFold.md)
+- [03. paridadeFold](MoodleWladEDavid/03paridadeFold.md)
+- [04. dupliclarFold](MoodleWladEDavid/04duplicarFold.md)
+- [05. filtraAplicaFold](TMoodleWladEDavid/0filtraAplicaFold.md)
+- [06. mapFold](MoodleWladEDavid/01concatenaFold.md) 
+- [07. removeLista](MoodleWladEDavid/02invertFold.md)
+- [08. acertosFold](MoodleWladEDavid/03paridadeFold.md)
+- [09. descompactaFold](MoodleWladEDavid/04duplicarFold.md)
+
+## Listas Infinitas
+
+- [10. kolaksoki](MoodleWladEDavid/10kolaksoki.md) 
+- [11. hamming](MoodleWladEDavid/11hamming.md)
+- [12. collatz](MoodleWladEDavid/12collatz.md)
+- [13. fechoKleene](MoodleWladEDavid/13fechoKleene.md)
+- [14. goldbach](MoodleWladEDavid/14goldbach.md)
+- [15. primosPalindromos](TMoodleWladEDavid/15primosPalindromos.md)
+- [16. primosGemeos](MoodleWladEDavid/16primosGemeos.md) 
+
+
+## Moodle Definições de Tipos
+
+- [17. LinkedList](MoodleWladEDavid/17LinkedList.md) 
+- [20. eqsplits](MoodleWladEDavid/20eqsplits.md)
+- [21. splits](MoodleWladEDavid/21splits.md)
+- [22. numPassageiros](MoodleWladEDavid/22numPassageiros.md)
+
+
+## Moodle Tipo Árvore
+
+- [23. remove](MoodleWladEDavid/17LinkedList.md) 
+- [24. insertArvore](MoodleWladEDavid/20eqsplits.md)
+- [25. foldTree](MoodleWladEDavid/21splits.md)
+- [26. makeMultiSet](MoodleWladEDavid/22numPassageiros.md)
+- [27. menorNivelFolha](MoodleWladEDavid/17LinkedList.md) 
+- [28. removeFolhas](MoodleWladEDavid/20eqsplits.md)
+- [29. cheia](MoodleWladEDavid/21splits.md)
+- [30. insere](MoodleWladEDavid/22numPassageiros.md)
+- [31. delete](MoodleWladEDavid/22numPassageiros.md)
