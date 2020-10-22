@@ -114,12 +114,12 @@ Repositório da disciplina de Programação Funcional da Universidade Federal do
 
 ## Moodle Tipo Árvore
 
-- [23. remove](MoodleWladEDavid/17LinkedList.md) 
-- [24. insertArvore](MoodleWladEDavid/20eqsplits.md)
-- [25. foldTree](MoodleWladEDavid/21splits.md)
-- [26. makeMultiSet](MoodleWladEDavid/22numPassageiros.md)
-- [27. menorNivelFolha](MoodleWladEDavid/17LinkedList.md) 
-- [28. removeFolhas](MoodleWladEDavid/20eqsplits.md)
-- [29. cheia](MoodleWladEDavid/21splits.md)
-- [30. insere](MoodleWladEDavid/22numPassageiros.md)
-- [31. delete](MoodleWladEDavid/22numPassageiros.md)
+- [23. remove](MoodleWladEDavid/23remove.md) 
+- [24. insertArvore](MoodleWladEDavid/24insertArvore.md)
+- [25. foldTree](MoodleWladEDavid/25foldTree.md)
+- [26. makeMultiSet](MoodleWladEDavid/26makeMultiSet.md)
+- [27. menorNivelFolha](MoodleWladEDavid/27menorNivelFolha.md) 
+- [28. removeFolhas](MoodleWladEDavid/28removeFolhas.md)
+- [29. cheia](MoodleWladEDavid/29cheia.md)
+- [30. insere](MoodleWladEDavid/30insere.md)
+- [31. delete](MoodleWladEDavid/31deletes.md)
