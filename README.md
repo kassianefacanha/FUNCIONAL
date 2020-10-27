@@ -54,8 +54,7 @@ Repositório da disciplina de Programação Funcional da Universidade Federal do
 - [22. intersec](ListaRicardo/22-intersec.md)
 - [23. sequencia](ListaRicardo/23-sequencia.md) 
 - [24. inserir](ListaRicardo/24-inserir.md) 
-- [25. ordenada](ListaRicardo/25-ordenada.md) 
-- [26. qsort](ListaRicardo/26-qsort.md) 
+- [26. qsort](ListaRicardo/25-qsort.md) 
 - [27. rotEsq](ListaRicardo/27-rotEsq.md) 
 - [28. rotDir](ListaRicardo/28-rotDir.md) 
 - [29. upper](ListaRicardo/29-upper.md) 
@@ -64,8 +63,8 @@ Repositório da disciplina de Programação Funcional da Universidade Federal do
 - [33. ehPrimo](ListaRicardo/33-ehPrimo.md) 
 - [34. sdig](ListaRicardo/34-sdig.md) 
 - [35. bubble](ListaRicardo/35-bubble.md) 
-- [37. splitints](ListaRicardo/36-splitins.md) 
-- [38. quadperf](ListaRicardo/37-quadperf.md) 
+- [37. splitints](ListaRicardo/37-splitins.md) 
+- [38. quadperf](ListaRicardo/38-quadperf.md) 
 
 ## Lista 2
 
